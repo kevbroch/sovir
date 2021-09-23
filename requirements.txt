@@ -169,7 +169,7 @@ pdfminer.six==20201018
 pendulum==2.1.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==8.3.1
+Pillow==8.3.2
 pip==21.2.4
 platformdirs==2.2.0
 plotly==5.1.0
