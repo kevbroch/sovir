@@ -109,7 +109,7 @@ keras==2.6.0
 lazy-object-proxy==1.6.0
 libcst==0.3.22
 livereload==2.6.3
-lxml==4.6.4
+lxml==4.6.5
 Mako==1.1.6
 Markdown==3.3.6
 MarkupSafe==2.0.1
