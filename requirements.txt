@@ -439,7 +439,7 @@ meson==0.54.0
     # via -r requirements.in
 mistletoe==0.8.1
     # via -r requirements.in
-mistune==0.8.4
+mistune==2.0.1
     # via nbconvert
 mkdocs==1.2.3
     # via -r requirements.in
