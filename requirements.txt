@@ -125,7 +125,7 @@ intbitset==2.4.1
 invoke==1.6.0
 ipCorePackager==0.6
 ipykernel==6.7.0
-ipython==8.0.0
+ipython==8.0.1
 ipython-genutils==0.2.0
 ipyxact==0.2.4
 isodate==0.6.1
