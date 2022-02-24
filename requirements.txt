@@ -37,6 +37,7 @@ cffi==1.15.0
 cfgv==3.3.1
 chardet==4.0.0
 charset-normalizer==2.0.12
+cli-helpers==2.2.1
 click==8.0.4
 cloudpickle==2.0.0
 cocotb==1.6.2
@@ -44,14 +45,15 @@ cocotb-bus==0.2.1
 cocotb-coverage==1.1.0
 colorama==0.4.4
 colorcet==3.0.0
-commitizen==2.21.0
+commitizen==2.21.2
 commoncode==30.0.0
 commonmark==0.9.1
+configobj==5.0.6
 coverage==6.3.2
 cpplint==1.6.0
 cryptography==36.0.1
 cssselect==1.1.0
-cssutils==2.3.0
+cssutils==2.4.0
 cycler==0.11.0
 dash==2.2.0
 dash-core-components==2.0.0
@@ -101,11 +103,11 @@ ghp-import==2.0.2
 gitdb==4.0.9
 GitPython==3.1.27
 google-api-core==2.5.0
-google-api-python-client==2.37.0
+google-api-python-client==2.38.0
 google-auth==2.6.0
 google-auth-httplib2==0.1.0
-google-auth-oauthlib==0.4.6
-googleapis-common-protos==1.54.0
+google-auth-oauthlib==0.5.0
+googleapis-common-protos==1.55.0
 graphql-core==3.2.0
 greenlet==1.1.2
 hdlConvertorAst==1.0
@@ -118,7 +120,7 @@ hwt==3.8
 hwtSimApi==1.3
 hypothesis==6.37.2
 icdiff==2.0.4
-identify==2.4.10
+identify==2.4.11
 idna==3.3
 importlab==0.7
 importlib-metadata==4.11.1
@@ -138,6 +140,7 @@ jaraco.functools==3.5.0
 javaproperties==0.8.1
 jedi==0.18.1
 Jinja2==3.0.3
+jinja2-cli==0.8.1
 json5==0.9.6
 jsons==1.6.1
 jsonschema==4.4.0
@@ -155,11 +158,13 @@ jupyterlab-server==2.10.3
 jupyterlite==0.1.0a18
 kitchen==1.2.6
 kiwisolver==1.3.2
+konsole==0.5.1
 lazy-object-proxy==1.7.1
 libcst==0.4.1
 license-expression==21.6.14
 livereload==2.6.3
 lockfile==0.12.2
+loguru==0.6.0
 lxml==4.8.0
 magql==0.6.0
 Mako==1.1.6
@@ -210,6 +215,8 @@ pefile==2021.9.3
 pendulum==2.1.2
 pep517==0.12.0
 pexpect==4.8.0
+pgcli==3.4.0
+pgspecial==1.13.0
 pickleshare==0.7.5
 Pillow==9.0.1
 pip==22.0.3
@@ -232,6 +239,7 @@ prompt-toolkit==3.0.28
 proselint==0.13.0
 protobuf==3.19.4
 psutil==5.9.0
+psycopg2==2.9.3
 ptyprocess==0.7.0
 publicsuffix2==2.20191221
 pure-eval==0.2.2
@@ -261,6 +269,7 @@ pyparsing==3.0.7
 pyrsistent==0.18.1
 pyserial==3.5
 pysftp==0.2.9
+pyte==0.8.0
 pytest==7.0.1
 pytest-benchmark==3.4.1
 pytest_check==1.0.4
@@ -316,6 +325,7 @@ scipy==1.8.0
 SCons==4.3.0
 seaborn==0.11.2
 Send2Trash==1.8.0
+setproctitle==1.2.2
 setuptools==60.9.3
 shtab==1.5.3
 simplesat==0.8.2
@@ -327,6 +337,7 @@ soupsieve==2.3.1
 spdx-tools==0.7.0a3
 SQLAlchemy==1.4.31
 SQLAlchemy-Utils==0.38.2
+sqlparse==0.4.2
 stack-data==0.2.0
 starlette==0.17.1
 statsmodels==0.13.2
@@ -336,9 +347,10 @@ taskw==1.3.1
 tenacity==8.0.1
 termcolor==1.1.0
 terminado==0.13.1
-testpath==0.5.0
+testpath==0.6.0
 text-unidecode==1.3
 textual==0.1.15
+thefuck==3.32
 tldr==3.1.0
 tokenize-rt==4.2.1
 toml==0.10.2
@@ -362,7 +374,7 @@ typish==1.9.3
 uritemplate==4.1.1
 urllib3==1.26.8
 urlpy==0.5
-virtualenv==20.13.1
+virtualenv==20.13.2
 watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
