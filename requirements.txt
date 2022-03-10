@@ -15,7 +15,7 @@ autopep8==1.6.0
 Babel==2.9.1
 backcall==0.2.0
 banal==1.0.6
-bandit==1.7.3
+bandit==1.7.4
 bcrypt==3.2.0
 beautifulsoup4==4.10.0
 binaryornot==0.4.4
@@ -85,7 +85,7 @@ executing==0.8.3
 extractcode==30.0.0
 extractcode-7z==16.5.210531
 extractcode-libarchive==3.5.1.210531
-fastapi==0.74.1
+fastapi==0.75.0
 fasteners==0.17.3
 filelock==3.6.0
 fingerprints==1.0.3
@@ -103,7 +103,7 @@ gemfileparser==0.8.0
 ghp-import==2.0.2
 gitdb==4.0.9
 GitPython==3.1.27
-google-api-core==2.6.0
+google-api-core==2.6.1
 google-api-python-client==2.39.0
 google-auth==2.6.0
 google-auth-httplib2==0.1.0
@@ -119,7 +119,7 @@ httplib2==0.20.4
 hvplot==0.7.3
 hwt==3.8
 hwtSimApi==1.3
-hypothesis==6.39.1
+hypothesis==6.39.3
 icdiff==2.0.4
 identify==2.4.11
 idna==3.3
@@ -151,7 +151,7 @@ jupyter-core==4.9.2
 jupyter-dash==0.4.1
 jupyter-server==1.13.5
 jupyter-telemetry==0.1.0
-jupyterhub==2.1.1
+jupyterhub==2.2.0
 jupyterlab==3.3.0
 jupyterlab-gitlab==3.0.0
 jupyterlab-pygments==0.1.2
@@ -183,17 +183,17 @@ more-itertools==8.12.0
 mypy==0.931
 mypy-extensions==0.4.3
 nbclassic==0.3.6
-nbclient==0.5.11
+nbclient==0.5.12
 nbconvert==6.4.2
 nbformat==5.1.3
 nest-asyncio==1.5.4
-networkx==2.7
+networkx==2.7.1
 ninja==1.10.2.3
 nodeenv==1.6.0
 normality==2.2.5
 notebook==6.4.8
 notebook-shim==0.1.0
-numpy==1.22.2
+numpy==1.22.3
 oauthlib==3.2.0
 okonomiyaki==1.3.2
 openpyxl==3.0.9
@@ -221,7 +221,7 @@ pgcli==3.4.0
 pgspecial==1.13.1
 pickleshare==0.7.5
 Pillow==9.0.1
-pip==22.0.3
+pip==22.0.4
 pip-requirements-parser==31.2.0
 pip-tools==6.5.1
 pkginfo==1.8.2
@@ -283,6 +283,7 @@ pytest-forked==1.4.0
 pytest-html==3.1.1
 pytest-instafail==0.4.2
 pytest-json-report==1.4.1
+pytest-messenger==3.2.0
 pytest-metadata==1.11.0
 pytest-mock==3.7.0
 pytest-order==1.0.1
@@ -319,7 +320,7 @@ retrying==1.3.3
 reuse==0.14.0
 rich==11.2.0
 rich-cli==1.5.1
-rich-rst==1.1.5
+rich-rst==1.1.7
 rsa==4.8
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.6
@@ -340,7 +341,7 @@ snowballstemmer==2.2.0
 sortedcontainers==2.4.0
 soupsieve==2.3.1
 spdx-tools==0.7.0a3
-SQLAlchemy==1.4.31
+SQLAlchemy==1.4.32
 SQLAlchemy-Utils==0.38.2
 sqlparse==0.4.2
 stack-data==0.2.0
@@ -379,7 +380,7 @@ typish==1.9.3
 uritemplate==4.1.1
 urllib3==1.26.8
 urlpy==0.5
-virtualenv==20.13.2
+virtualenv==20.13.3
 watchdog==2.1.6
 wcwidth==0.2.5
 webencodings==0.5.1
