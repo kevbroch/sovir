@@ -203,7 +203,7 @@ livereload==2.6.3
 llvmlite==0.38.1
 lockfile==0.12.2
 loguru==0.6.0
-lxml==4.9.0
+lxml==4.9.1
 magql==0.6.0
 Mako==1.2.0
 mando==0.6.4
