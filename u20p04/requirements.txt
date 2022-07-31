@@ -38,7 +38,7 @@ blessed==1.19.1
 blinker==1.5
 bokeh==2.4.3
 boolean.py==4.0
-botocore==1.27.41
+botocore==1.27.42
 bpytop==1.0.68
 Brotli==1.0.9
 bugwarrior==1.8.0
@@ -112,7 +112,7 @@ feedgenerator==2.0.0
 filelock==3.7.1
 fingerprints==1.0.3
 fire==0.4.0
-flake8==4.0.1
+flake8==5.0.0
 flake8-polyfill==1.0.2
 Flask==2.1.3
 Flask-Compress==1.12
@@ -182,7 +182,7 @@ jmespath==1.0.1
 joblib==1.1.0
 json5==0.9.8
 jsons==1.6.3
-jsonschema==4.8.0
+jsonschema==4.9.0
 jsonstreams==0.6.0
 julia==0.5.7
 jupyter-client==7.3.4
@@ -220,7 +220,7 @@ marshmallow==3.17.0
 marshmallow-enum==1.5.1
 matplotlib==3.5.2
 matplotlib-inline==0.1.3
-mccabe==0.6.1
+mccabe==0.7.0
 memray==1.2.0
 mergedeep==1.3.4
 meson==0.63.0
@@ -316,7 +316,7 @@ pyarrow==8.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pybind11==2.10.0
-pycodestyle==2.8.0
+pycodestyle==2.9.0
 pycparser==2.21
 pycryptodome==3.15.0
 pyct==0.4.8
@@ -326,7 +326,7 @@ pyDigitalWaveTools==1.2
 pydocstyle==6.1.1
 pydot==1.4.2
 pyelftools==0.28
-pyflakes==2.4.0
+pyflakes==2.5.0
 pyftdi==0.54.0
 pygmars==0.7.0
 Pygments==2.12.0
@@ -404,7 +404,7 @@ ruamel.yaml.clib==0.2.6
 saneyaml==0.5.2
 scikit-learn==1.1.1
 scipy==1.9.0
-SCons==4.3.0
+SCons==4.4.0
 seaborn==0.11.2
 semver==2.13.0
 Send2Trash==1.8.0
