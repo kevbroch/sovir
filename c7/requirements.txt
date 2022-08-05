@@ -148,7 +148,7 @@ hwtSimApi==1.3
 hypothesis==6.53.0
 icdiff==2.0.5
 ics==0.7.2
-identify==2.5.2
+identify==2.5.3
 idna==3.3
 imagesize==1.4.1
 importlab==0.7
@@ -175,9 +175,10 @@ Jinja2==3.1.2
 jinja2-cli==0.8.2
 jmespath==1.0.1
 joblib==1.1.0
-json5==0.9.8
+jq==1.2.2
+json5==0.9.9
 jsons==1.6.3
-jsonschema==4.9.0
+jsonschema==4.9.1
 jsonstreams==0.6.0
 julia==0.5.7
 jupyter-client==7.3.4
@@ -198,7 +199,7 @@ kitchen==1.2.6
 kiwisolver==1.4.4
 konsole==0.7.0
 lazy-object-proxy==1.7.1
-libclang==14.0.1
+libclang==14.0.6
 libcst==0.4.7
 license-expression==21.6.14
 livereload==2.6.3
@@ -220,7 +221,7 @@ memray==1.2.0
 mergedeep==1.3.4
 meson==0.63.0
 mistletoe==0.8.2
-mistune==0.8.4
+mistune==2.0.4
 mkdocs==1.3.1
 mkdocs-material==8.3.9
 mkdocs-material-extensions==1.0.3
@@ -248,7 +249,7 @@ openpyxl==3.0.10
 opt-einsum==3.3.0
 orderedmultidict==1.0.1
 outcome==1.2.0
-packageurl-python==0.10.0
+packageurl-python==0.10.1
 packaging==21.3
 pamela==1.0.0
 pandas==1.4.3
@@ -277,7 +278,7 @@ pgcli==3.4.1
 pgspecial==1.13.1
 pickleshare==0.7.5
 Pillow==9.2.0
-pip==22.2.1
+pip==22.2.2
 pip-requirements-parser==31.2.0
 pip-tools==6.8.0
 pkginfo==1.8.3
@@ -305,11 +306,11 @@ pure-eval==0.2.2
 py==1.11.0
 py-cpuinfo==8.0.0
 pyahocorasick==1.4.4
-pyarrow==8.0.0
+pyarrow==9.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pybind11==2.10.0
-pycodestyle==2.9.0
+pycodestyle==2.9.1
 pycparser==2.21
 pycryptodome==3.15.0
 pyct==0.4.8
@@ -374,6 +375,7 @@ pyupgrade==2.37.3
 pyusb==1.2.1
 pyverilog==1.3.0
 pyviz-comms==2.2.0
+pyxDamerauLevenshtein==1.7.1
 PyYAML==6.0
 pyyaml_env_tag==0.1
 pyzmq==23.2.0
@@ -401,8 +403,8 @@ SCons==4.4.0
 seaborn==0.11.2
 semver==2.13.0
 Send2Trash==1.8.0
-setproctitle==1.3.0
-setuptools==63.3.0
+setproctitle==1.3.1
+setuptools==63.4.1
 shellescape==3.8.1
 shtab==1.5.5
 simplesat==0.8.2
@@ -458,7 +460,7 @@ toml==0.10.2
 tomli==2.0.1
 tomlkit==0.11.1
 toolz==0.12.0
-torch==1.12.0
+torch==1.12.1
 tornado==6.2
 tqdm==4.64.0
 trailrunner==1.2.1
@@ -486,7 +488,7 @@ urllib3==1.26.11
 urlpy==0.5
 usort==1.0.4
 validators==0.20.0
-virtualenv==20.16.2
+virtualenv==20.16.3
 watchdog==2.1.9
 wcwidth==0.2.5
 webencodings==0.5.1
@@ -499,6 +501,6 @@ wrapt==1.14.1
 xmltodict==0.13.0
 yamllint==1.27.1
 yapf==0.32.0
-yarl==1.7.2
+yarl==1.8.1
 zipfile2==0.0.12
 zipp==3.8.1
