@@ -189,7 +189,7 @@ Jinja2==3.1.2
 jinja2-cli==0.8.2
 jira==3.4.1
 jmespath==1.0.1
-joblib==1.1.0
+joblib==1.2.0
 jq==1.2.2
 json5==0.9.10
 jsons==1.6.3
