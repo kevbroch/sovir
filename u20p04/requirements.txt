@@ -302,7 +302,7 @@ manim==0.17.2
 ManimPango==0.4.3
 mapbox-earcut==1.0.1
 Markdown==3.3.7
-markdown-it-py==2.1.0
+markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 marshmallow==3.19.0
 marshmallow-enum==1.5.1
