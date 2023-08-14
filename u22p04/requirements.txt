@@ -515,7 +515,7 @@ toml==0.10.2
 tomli==2.0.1
 tomlkit==0.12.1
 torch==1.13.1
-tornado==6.3.2
+tornado==6.3.3
 tox==4.6.4
 tqdm==4.65.0
 traitlets==5.9.0
