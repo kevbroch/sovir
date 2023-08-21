@@ -313,6 +313,7 @@ pathvalidate==3.1.0
 patsy==0.5.3
 pbr==5.11.1
 peakrdl==0.8.0
+peakrdl-cheader==0.0.1
 peakrdl-html==2.10.1
 peakrdl-ipxact==3.4.2
 peakrdl-regblock==0.17.0
