@@ -525,7 +525,7 @@ PyJWT==2.6.0
 pylint==2.17.5
 pyMathBitPrecise==1.0
 pymaven-patch==0.3.0
-pymdown-extensions==9.10
+pymdown-extensions==10.0
 Pympler==1.0.1
 pymtl3==3.1.15
 PyMySQL==1.0.3
