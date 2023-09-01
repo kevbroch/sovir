@@ -191,7 +191,7 @@ git-filter-repo==2.38.0
 git-me-the-url==2.1.0
 gitdb==4.0.10
 gitlab-codeowners-linter==1.0.2
-GitPython==3.1.31
+GitPython==3.1.33
 Glances==3.3.1.1
 glcontext==2.3.7
 globus-sdk==3.18.0
