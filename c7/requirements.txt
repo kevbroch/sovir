@@ -445,7 +445,7 @@ pgspecial==2.0.1
 pickleDB==0.9.2
 pickleshare==0.7.5
 pigar==2.0.6
-Pillow==9.4.0
+Pillow==10.0.1
 pip==23.2.1
 pip-requirements-parser==32.0.1
 pip-tools==7.3.0
