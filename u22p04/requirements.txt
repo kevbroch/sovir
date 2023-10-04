@@ -343,7 +343,7 @@ pgcli==3.5.0
 pgspecial==2.1.0
 pickleshare==0.7.5
 pigar==2.1.1
-Pillow==9.5.0
+Pillow==10.0.1
 pip==23.2.1
 pip-requirements-parser==32.0.1
 pip-tools==7.3.0
